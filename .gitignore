@@ -1,0 +1,10 @@
+
+*.class
+.idea
+.bsp
+target/
+
+# Compile results
+target/**
+project/project/**
+project/target/**
